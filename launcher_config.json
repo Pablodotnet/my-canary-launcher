@@ -1,5 +1,5 @@
 {
-	"clientVersion": "14.12.96",
+	"clientVersion": "14.12.97",
 	"launcherVersion": "1.0",
 	"replaceFolders": true,
 	"replaceFolderName": [
@@ -14,6 +14,6 @@
 		}
 	],
 	"clientFolder": "",
-	"newClientUrl" : "https://github.com/Pablodotnet/my-canary-launcher/releases/download/1.0.1/GangrenaOT.zip",
+	"newClientUrl" : "https://github.com/Pablodotnet/my-canary-launcher/releases/download/1.0.2/GangrenaOT.zip",
 	"clientExecutable": "bin/client.exe"
 }
