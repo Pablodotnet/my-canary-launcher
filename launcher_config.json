@@ -13,7 +13,7 @@
 			"name": "bin"
 		}
 	],
-	"clientFolder": "GangrenaOT",
+	"clientFolder": "",
 	"newClientUrl" : "https://github.com/Pablodotnet/my-canary-launcher/releases/download/1.0.0/GangrenaOT.zip",
 	"clientExecutable": "bin/client.exe"
 }
