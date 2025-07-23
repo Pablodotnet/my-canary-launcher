@@ -1,0 +1,19 @@
+{
+	"clientVersion": "14.12.95",
+	"launcherVersion": "1.0",
+	"replaceFolders": true,
+	"replaceFolderName": [
+		{
+			"name": "assets"
+		},
+		{
+			"name": "storeimages"
+		},
+		{
+			"name": "bin"
+		}
+	],
+	"clientFolder": "GangrenaOT",
+	"newClientUrl" : "https://github.com/pablodotnet/my-canary-launcher/releases/download/1.0.0/GangrenaOT.zip",
+	"clientExecutable": "bin/client.exe"
+}
